@@ -1,0 +1,8 @@
+{
+  "author" : "Pierrce",
+  "description" : "Craft glass with dry sand.",
+  "friendlyName" : "Dry Sand to Glass",
+  "link" : "github.com/pierrce",
+  "name" : "DrySandToPets",
+  "version" : "1.0"
+}
